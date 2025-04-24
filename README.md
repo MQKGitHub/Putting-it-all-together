@@ -2,7 +2,7 @@
 
 **Room:** [Putting It All Together — TryHackMe](https://tryhackme.com/room/puttingitalltogether)  
 **Status:** ✅ Completed  
-**Date:** 24 April 2025
+**Date:** *(24 April 2025)*
 
 ### 🎯 Objective  
 This room brought together everything covered so far — from DNS and HTTP to WAFs and load balancers — to show how a full web request flows through the stack.  
