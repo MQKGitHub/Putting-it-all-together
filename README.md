@@ -22,8 +22,8 @@ The goal was to understand each component’s role in serving a webpage securely
 ---
 
 ### 🛠️ Tools Used  
-- **Browser DevTools** — Used to inspect HTTP requests and understand headers.  
-- **Network flow diagrams** — Helped visualise the journey of a web request.
+- Browser DevTools — Used to inspect HTTP requests and understand headers.  
+- Network flow diagrams — Helped visualise the journey of a web request.
 
 ---
 
